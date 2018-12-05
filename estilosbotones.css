@@ -1,0 +1,64 @@
+* {
+    margin-top: auto;
+    padding: auto;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+/*Estilos botones*/
+.button {
+    background:white;
+    color:#2a96d5;
+    border: 2px solid #2a96d5;
+    display: inline-block;
+    font-size: 1.25em;
+    margin: 20px;
+    padding:10px 10px;
+    text-align: left;
+    width:200px;
+    text-decoration:none;
+}
+
+/*Texto en segunda línea del botón*/
+.verde {
+    color: #65bda7;
+}
+
+/*Estilos íconos*/
+.icon-camera {
+    font-size: 40px;
+    margin-right: auto;
+    float: right;
+}
+
+.icon-laptop {
+    font-size: 40px;
+    margin-right: auto;
+    float: right;
+}
+
+.icon-list {
+    font-size: 40px;
+    margin-right: auto;
+    float: right;
+}
+
+.icon-round-brush {
+    font-size: 40px;
+    margin-right: auto;
+    float: right;
+}
+
+.icon-dribbble {
+    font-size: 40px;
+    margin-right: auto;
+    float: right;
+}
+
+.icon-phone {
+    font-size: 40px;
+    margin-right: auto;
+    float: right;
+}
