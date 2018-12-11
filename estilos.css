@@ -1,0 +1,312 @@
+.fondo {
+	background: #7fb27c;
+	height: 20px;
+		
+}
+.muni > img {
+	max-width: 100%;
+}
+
+.container-fluid > .container > img {
+	display:block;
+	margin:auto;
+}
+
+.fondo2 {
+	
+	background: url('imagen/imagenfondo2.jpg');
+	height: 100vh;
+	background-position: center;
+	background-size: cover;
+	
+}
+
+.dropdown-item:hover{
+	background: #99d095;
+	color: #fff;
+
+}
+
+.acceso-rapido > ul li {
+	list-style-type: none;
+
+}
+
+.btn {
+    color:#2a96d5;
+    border: 2px solid #2a96d5;
+    display: block;
+    font-size: 1.25em;
+    margin: 5px;
+    padding:10px 10px;
+    text-align: left;
+    width:100%;
+    text-decoration:none;
+}
+
+.btn:hover {
+	color:#7fb27c;
+	border: 2px solid #7fb27c;
+	
+
+}
+/*Texto en segunda línea del botón*/
+.verde {
+    color: #65bda7;
+}
+.verde:hover {
+	color:#7fb27c;
+}
+
+/*Estilos íconos*/
+.icon-camera {
+   float: right;
+    font-size: 40px;
+    margin-top: -7px;
+
+   
+}
+
+.icon-laptop {
+   float: right;
+    font-size: 40px;
+     margin-top: -7px;
+}
+
+.icon-pencil {
+   float: right;
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+.icon-dribbble {
+	float: right;
+    font-size: 40px;
+    margin-top: 10px;
+
+}
+
+.icon-phone {
+	float: right;
+    font-size: 40px;
+    margin-top: 10px
+  
+}
+
+
+.seccion2 {
+	 color:#2a96d5;
+    border-bottom: 1px solid #65bda7;
+}
+
+.nav-link{
+	color: #fff;
+}
+
+.fecha{
+	color: #fff;
+}	
+
+.card-body{
+	text-align: center;
+	color: #333333;
+}
+.card-footer{
+	color: #fff;
+	font-size: 1.5em;
+	text-align: center;
+	}
+
+.seccion3{
+	background: #65bda7;
+	height: 1px;
+			
+}
+
+.publicidad{
+	 color:#2a96d5;
+    border-bottom: 1px solid #65bda7;
+	margin-top: 50px;
+}
+
+.footer {
+	background: url('imagen/cordillera.png');
+	height: 50vh;
+	background-position: center;
+	background-size: cover;
+	position: absolute;
+}
+/* Franja negra que contiene informacion en el footer */
+.contactos {
+	background: #4b5063;
+	height: 100%;
+	position: relative;
+	top: 230px;
+	color: #fff;
+		  	
+}
+
+.btn1{
+	color: #fff;
+	text-decoration: none;
+	width: 100%;
+	text-align: center;
+	
+
+}
+
+.icon-location {
+	margin: 5px;
+
+}
+
+.icon-phone-hang-up{
+	margin: 10px;
+}
+
+.twitter:hover{
+	color: #2a96d5;
+	text-decoration: none;
+
+}
+
+.facebook:hover{
+	color: #65bda7;
+	text-decoration: none;
+
+}
+
+.youtube:hover{
+	color: #99d095;
+	text-decoration: none;
+
+}
+
+.flickr:hover{
+	color: #ccfcc9;
+	text-decoration: none;
+
+}
+
+.icon{
+     font-size: 40px;
+	 		 
+}
+
+ .contactos ul li {
+	 margin-top: 5px;
+	text-decoration: none;
+	list-style-type: none;
+
+}
+
+ .contactos > .telefonos, .direcciones ul li {
+	margin-top: 25px;
+
+}
+
+ .contactos > .direcciones, .telefonos ul li {
+	margin-top: 25px;
+	
+
+}
+
+.telefonos ul li{
+	text-align: left;
+}
+
+.leyes img {
+	width: 100%;
+}
+
+.final {
+	background: #333333;
+	height: 100%;
+	position: relative;
+	top: 230px;
+	color: #fff;
+	text-align: center;
+		
+}
+
+.nada {
+	height: 40px;
+	
+}
+
+/* Contactos */
+
+.telefonos-municipales {
+	 color: #2a96d5;
+	 border-bottom: 1px solid #7fb27c;
+	 	 
+}
+.lista-telefonos ul li{
+	margin-top: 50px;
+	list-style-type: none;
+	border-bottom:1px solid #7fb27c;
+}
+.nombres {
+	margin: 30px;
+	
+}
+
+.card > img:hover {
+	background-color: #2a96d5;
+	opacity: .5;
+}
+.card >  .letras {
+	margin-top: 10px;
+}
+
+.foto1:hover {
+	background-color: #99d095;
+	opacity: .8;
+
+}
+
+.parrafo {
+	color: #333333;
+	text-align: justify;
+	margin-top: 30px;
+
+}
+
+.linea {
+	background-color: #2a96d5;
+	height: 1px;
+	margin-top: 30px;
+}
+
+.parrafo2 {
+	color: #2a96d5;
+	margin-left: 40px;
+	margin-top: 60px;
+}
+
+.linea2 {
+	background-color: #7fb27c;
+	height: 1px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	
+}
+
+.lista-noticia > ul li {
+	text-decoration: none;
+	margin-top: 30px;
+}
+
+.lista-noticia > ul li a {
+	color: #2a96d5;
+	margin-top: 10px;
+}
+
+.lista-noticia > ul li a:hover {
+	color: #7fb27c;
+	text-decoration: none;
+}
+.lista-noticia > ul li:hover {
+	color: #7fb27c;
+	text-decoration: none;
+}
